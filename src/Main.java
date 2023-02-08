@@ -30,9 +30,6 @@ public class Main {
             result = result + account + " монет ";
         }
 
-
-
-
         return countMonth;
     }
 
